@@ -18,6 +18,6 @@ Data The dataset you will be given consists of approximately 140k rows of data w
 We choose to use Weighted R2 calculated with sklearn r2 score implementation as the only metric of our prediction.
 
 ### Holdout data
-A hold-out test dataset that has about 25% of the data that you won't see are preserved.
+A hold-out test dataset that has about 25% of the data is preserved.
 
 
